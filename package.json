@@ -1,6 +1,6 @@
 {
   "name": "file-association",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "get file apps association for an extention",
   "main": "lib/index.js",
   "scripts": {
